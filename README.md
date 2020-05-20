@@ -18,5 +18,5 @@ Replace 'some_word_goes_here' with a word of your choosing. The rap will be gene
 
 Credits
 ===========
-Majority of code: [Ted Xiao](https://github.com/txizzle/Markov_Rap_Generator)
-Wrapper around all of the important functions: [Siraj Raval](https://github.com/llSourcell/Rap_Lyric_Generator)
+* Majority of code: [Ted Xiao](https://github.com/txizzle/Markov_Rap_Generator)
+* Wrapper around all of the important functions: [Siraj Raval](https://github.com/llSourcell/Rap_Lyric_Generator)
